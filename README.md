@@ -1,2 +1,2 @@
 # coding_fun
-This is a nift repo that will hold code me and daniel are playing with
+This is a nifty repo that will hold code me and daniel are playing with
